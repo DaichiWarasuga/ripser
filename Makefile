@@ -13,6 +13,8 @@ ripser-coeff: ripser.cpp
 ripser-debug: ripser.cpp
 	c++ -std=c++11 -Wall ripser.cpp -o ripser-debug -g
 
+ripser-tqdm: ripser.cpp
+	c++ -std=c++11 -Wall ripser.cpp -o ripser-tqdm -O3 -D NDEBUG -D INDICATE_PROGRESS
 
 clean:
 	rm -f ripser ripser-coeff ripser-debug

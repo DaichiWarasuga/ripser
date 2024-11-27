@@ -74,7 +74,7 @@ typedef int64_t index_t;
 typedef uint16_t coefficient_t;
 
 #ifdef INDICATE_PROGRESS
-static const std::chrono::milliseconds time_step(40);
+static const std::chrono::milliseconds time_step(1);
 #endif
 
 static const std::string clear_line("\r\033[K");

@@ -1,0 +1,6 @@
+value range: [0,1]
+distance matrix with 3 points, using threshold at enclosing radius 1
+persistence intervals in dim 0:
+ [0,1)
+ [0, )
+persistence intervals in dim 1:

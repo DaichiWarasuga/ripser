@@ -1,0 +1,10 @@
+point cloud with 4 points in dimension 2
+value range: [1,1.41421]
+distance matrix with 4 points, using threshold at enclosing radius 1.41421
+persistence intervals in dim 0:
+ [0,1)
+ [0,1)
+ [0,1)
+ [0, )
+persistence intervals in dim 1:
+ [1,1.41421)
