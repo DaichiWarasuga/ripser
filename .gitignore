@@ -2,3 +2,4 @@ DerivedData
 ripser.dSYM
 ripser
 ripser-coeff
+examples/bert-base-uncased_emb.csv
